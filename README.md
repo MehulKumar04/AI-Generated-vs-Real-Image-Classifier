@@ -23,6 +23,9 @@ The dataset consists of two folders:
 
 All images were resized to **224×224 pixels** and normalized between **0–1** for model training.  
 
+📥 Dataset is available on Kaggle:  
+👉 [AI-Generated Images vs Real Images](https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images?select=AiArtData)  
+
 ---
 
 ## 🧠 Model Architecture
@@ -34,6 +37,6 @@ All images were resized to **224×224 pixels** and normalized between **0–1** 
 
 Trained with **binary crossentropy loss** and **Adam optimizer**.  
 
+---
 
-git clone https://github.com/<your-username>/ai-vs-real-classifier.git
-cd ai-vs-real-classifier
+
